@@ -1,4 +1,1 @@
-A very simple text input class for pygame.
-Basic appearance can be styled by passing various kwargs.
-
--Mek
+Simple interactive questionare to collect mouse movements and sureness of user's responses to different base-rate questions.
