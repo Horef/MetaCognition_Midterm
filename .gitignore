@@ -1,0 +1,8 @@
+# ignore everything inside the results directory
+results/*
+
+PrintedWork
+example.py
+mouse_movements*
+multi_example.py
+test.py

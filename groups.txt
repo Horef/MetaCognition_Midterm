@@ -1,0 +1,23 @@
+Arial Group:
+308387497 - male, 31, works at Intel, Industrial Engineer
+311385041 - male, 29, works in IT, Industrial Engineer
+204165450 - male, 31, works for himself, Engineer
+207072422 - female, 28, works at Intel, student for Industrial Engineer
+312463391 - female, 31, Dog trainer and works in a therapeutic kennel
+egor - male, 21, student at the Technion, Civil Engineer
+danya - male, 21, student at the Technion, Computer Science
+andrey - male, 22, student at the Technion, Computer Science
+sonya - female, 20, student at the Technion, Data Science
+valentin - male, 22, student at the Technion, Physics
+
+Times New Roman Group:
+212529697 - female, 24, officer in the army, degree in computer science
+318471406 - female, 24, student at law school
+058368028 - female, 52, nurse
+yarik - male, 21, student at the Technion, Computer Science
+yura - male, 21, student at the Technion, Computer Science
+Arseny - male, 21, student at the Technion, Mechanical Engineer
+maya - female, 21, student at the Technion, Data Science
+polly - female, 21, student at the Technion, Data Science
+327903332 - female, 18, before army
+211629415 - female, 23, student at the Technion, Data Science
